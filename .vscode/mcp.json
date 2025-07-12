@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"my-mcp-server-8802ffc2": {
+			"type": "http",
+			"url": "http://127.0.0.1:8000/mcp/",
+			"headers": {
+				"Authorization": "Bearer YOUR_ACCESS_TOKEN"
+			}
+		}
+	}
+}
